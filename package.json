@@ -22,7 +22,7 @@
     "@sindresorhus/is": "^2.1.1",
     "@types/node": "^13.13.2",
     "@types/react-redux": "^7.1.7",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "fs": "^0.0.1-security",
     "glamorous": "^5.0.0",
     "glamorous-native": "^2.0.0",
